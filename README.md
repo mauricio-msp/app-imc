@@ -1,4 +1,4 @@
-## TicTacToe (Jogo da Velha)
+## App IMC (Cálculo do IMC)
 
 [![author](https://img.shields.io/badge/author-mauricioporfirio-blue?style=flat-square)](https://github.com/mauricio-msp)
 [![watchers](https://img.shields.io/github/watchers/mauricio-msp/app-imc?style=flat-square&color=blue)](https://github.com/mauricio-msp/app-imc/watchers)
